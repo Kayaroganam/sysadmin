@@ -64,7 +64,7 @@ if __name__ == '__main__':
 	loop = True
 
 	while loop:
-		select = input("date time >> ")
+		select = input("SYSADMIN > date time >> ")
 
 		if select == '0':
 			loop = False
