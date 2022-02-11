@@ -12,7 +12,7 @@ sh install.sh
 
 method 2
 --------
-bash sysadmin.sh
+bash install.sh
 
 
 To run this script
