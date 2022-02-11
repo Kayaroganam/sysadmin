@@ -32,5 +32,5 @@ echo "sudo python3 sysadmin.py" >> sysadmin.sh
 
 sudo chmod +x sysadmin.sh
 
-echo "installed successfully"
-echo 'To run this tool please execute this commend "sh sysadmin.sh" or "./sysadmin.sh"'
+echo "installed successfully."
+echo 'To run this tool please execute this commend "sudo sh sysadmin.sh" or "sudo ./sysadmin.sh"'
