@@ -17,6 +17,6 @@ bash sysadmin.sh
 
 To run this script
 ==================
-./sysadmin.sh
+sudo ./sysadmin.sh
     (OR)
-sh sysadmin.sh
+sudo sh sysadmin.sh
