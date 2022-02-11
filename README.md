@@ -8,7 +8,7 @@ method 1
 chmod +x install.sh      
 ./install.sh
     (OR)
-sh sysadmin.sh
+sh install.sh
 
 method 2
 --------
